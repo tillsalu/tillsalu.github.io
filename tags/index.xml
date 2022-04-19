@@ -5,6 +5,8 @@
     <link>https://tillsalu.github.io/tags/</link>
     <description>Recent content in Tags on Till Salu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>sv-SE</language><atom:link href="https://tillsalu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>sv-SE</language>
+    <managingEditor>tillsalu@mcfrojd.com (McFrojd)</managingEditor>
+    <webMaster>tillsalu@mcfrojd.com (McFrojd)</webMaster><atom:link href="https://tillsalu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

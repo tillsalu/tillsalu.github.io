@@ -6,12 +6,14 @@
     <description>Recent content in Produkters on Till Salu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-SE</language>
+    <managingEditor>tillsalu@mcfrojd.com (McFrojd)</managingEditor>
+    <webMaster>tillsalu@mcfrojd.com (McFrojd)</webMaster>
     <lastBuildDate>Tue, 19 Apr 2022 13:00:13 +0200</lastBuildDate><atom:link href="https://tillsalu.github.io/produkter/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
       <link>https://tillsalu.github.io/produkter/test/</link>
       <pubDate>Tue, 19 Apr 2022 13:00:13 +0200</pubDate>
-      
+      <author>tillsalu@mcfrojd.com (McFrojd)</author>
       <guid>https://tillsalu.github.io/produkter/test/</guid>
       <description>testing</description>
     </item>
