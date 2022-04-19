@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Till Salu</title>
-    <link>http://tillsalu.github.io/</link>
+    <link>https://tillsalu.github.io/</link>
     <description>Recent content on Till Salu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-SE</language>
-    <lastBuildDate>Tue, 19 Apr 2022 13:00:13 +0200</lastBuildDate><atom:link href="http://tillsalu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Apr 2022 13:00:13 +0200</lastBuildDate><atom:link href="https://tillsalu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>http://tillsalu.github.io/produkter/test/</link>
+      <link>https://tillsalu.github.io/produkter/test/</link>
       <pubDate>Tue, 19 Apr 2022 13:00:13 +0200</pubDate>
       
-      <guid>http://tillsalu.github.io/produkter/test/</guid>
+      <guid>https://tillsalu.github.io/produkter/test/</guid>
       <description>testing</description>
     </item>
     
